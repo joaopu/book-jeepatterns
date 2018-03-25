@@ -1,1 +1,11 @@
+#.class files:
+*.class
+
+*.classpath
+*.project
+
+
+#subdirs:
+**/.settings
+**/build
 
